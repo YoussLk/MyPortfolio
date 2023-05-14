@@ -1,0 +1,140 @@
+{
+    "basics": {
+        "name": "Youssef LAKRIM",
+        "label": "FullStack Web Developer, UI/UX Designer",
+        "email": "yousseflakrim04@gmail.com",
+        "phone": "(+212) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Fullstack Js Web Developer",
+        "job2": "UI/UX Designer using Figma",
+        "description": "Hello! I'm Youssef! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Angeles, Philippines.",
+        "keywords": "personal,website,portfolio,template,kit,youssef,lakrim,webdev,web,developer,angeles,morocco,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "youssef-lakrim.netlify.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Rabat",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "Rabat-salee-kenitra"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "yousseflakrim04@gmail.com",
+                "url": "mailto:yousseflakrim04@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Youssef LAKRIM",
+                "url": "https://www.linkedin.com/in/youssef-lakrim-664923266/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "YoussLk",
+                "url": "https://github.com/YoussLk",
+                "x_icon": "fab fa-github"
+            },
+           
+            {
+                "network": "Telegram",
+                "username": "LkYos",
+                "url": "https://t.me/kalixyo",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Mathematics & Informatic",
+            "studyType": "Bachelor",
+            "startDate": "2015-09-01",
+            "endDate": "2018-06-10",
+            "gpa": "4.0",
+            "courses": ["software engineer - math fundamentals"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Arabic",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<svg id="ems0PTED1Nx1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 156.24 224.13" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<defs>
+<filter id="ems0PTED1Nx4-filter" x="-150%" width="400%" y="-150%" height="400%">
+<feGaussianBlur id="ems0PTED1Nx4-filter-blur-0" stdDeviation="2,0" result="result"/>
+</filter><filter id="ems0PTED1Nx5-filter" x="-150%" width="400%" y="-150%" height="400%">
+<feGaussianBlur id="ems0PTED1Nx5-filter-blur-0" stdDeviation="2,0" result="result"/>
+</filter>
+<style>.cls-1{fill:#1d1d1b;}</style>
+</defs>
+<g>
+<g transform="translate(22.585981-.012414)">
+<rect class="cls-1" width="9.9" height="133.85" rx="3.75" ry="3.75" transform="matrix(1 0 0 0.810023 12.47 34.044211)" filter="url(#ems0PTED1Nx4-filter)"/>
+<rect class="cls-1" width="9.9" height="108.08" rx="3.75" ry="3.75" transform="matrix(0 1-.64609 0 83.199407 137.28)" filter="url(#ems0PTED1Nx5-filter)"/>
+<rect class="cls-1" width="9.9" height="112.54" rx="3.75" ry="3.75" transform="matrix(.777396-.498122 0.252175 0.393558 21.870643 37.200705)" />
+<rect class="cls-1" width="9.9" height="201.44" rx="3.75" ry="3.75" transform="matrix(.880973 0.473166-.260442 0.484909 78.764802 32.392832)" />
+</g>
+</g>
+<path d="" fill="none" stroke="#3f5787" stroke-width="0.5"/>
+</svg>
+
+
+
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156.24 224.13">
+<defs>
+<style>.cls-1{fill:#1d1d1b;}</style>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_5" data-name="Layer 5">
+
+
+<rect class="cls-1" x="29.69" y="29.07" width="9.9" height="108.08" rx="3.75" ry="3.75" transform="matrix(0 1-.64609 0 80.199407 155.28)"/>
+<rect class="cls-1" x="39.59" y="153.02" width="9.9" height="69.83" rx="3.75" ry="3.75" transform="translate(.47 31.33)" />
+<rect class="cls-1" x="29.69" y="29.07" width="9.9" height="112.54" rx="3.75" ry="3.75" transform="matrix(.750261-.538125 0.310477 0.432871 16.09067 38.925898)" />
+<rect class="cls-1" x="29.69" y="29.07" width="9.9" height="201.44" rx="3.75" ry="3.75" transform="matrix(.816742 0.577003-.393895 0.557556 90.375836 33.59846)" />
+
+
+<!-- <rect class="cls-1" x="29.69" y="29.07" width="9.9" height="133.85" rx="3.75"/>
+<rect class="cls-1" x="133.62" y="57.1" width="9.9" height="108.08" rx="3.75"/>
+<rect class="cls-1" x="30.39" y="21.71" width="9.9" height="112.54" rx="3.75" transform="translate(-38.83 35.21) rotate(-35.65)"/>
+<rect class="cls-1" x="90.6" y="-17.08" width="9.9" height="201.44" rx="3.75" transform="translate(65.78 -39.81) rotate(35.24)"/>
+<rect class="cls-1" x="78.17" y="39.68" width="9.9" height="201.55" rx="3.75" transform="translate(96.28 -22.22) rotate(35.24)"/> -->
+</g></g>
+</svg> -->
+
+
+
