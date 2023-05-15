@@ -12,7 +12,7 @@ import Portfolio from '../../assets/recentprojects/react-portfolio.png';
 import Veritru from '../../assets/recentprojects/veritru.png';
 import Lofo from '../../assets/recentprojects/lofo.png';
 import Startup from '../../assets/recentprojects/startup.png';
-import Lacalle from '../../assets/recentprojects/lacalle.png';
+// import Lacalle from '../../assets/recentprojects/lacalle.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {
