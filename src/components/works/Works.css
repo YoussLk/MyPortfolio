@@ -18,7 +18,7 @@
   width: 50em;
 }
 .__img_wrapper > img {
-  width: 100%;
+  width: 80%;
 }
 .__content_wrapper {
   width: 40%;
@@ -55,7 +55,7 @@
     flex-direction: column;
   }
   .__img_wrapper {
-    width: 340px;
+    width: 300px;
   }
   .__content_wrapper {
     width: 70%;
